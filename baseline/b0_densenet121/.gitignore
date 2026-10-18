@@ -1,0 +1,18 @@
+# Data: images are web-scraped and may be copyrighted. Never commit them.
+data/
+*.jpg
+*.jpeg
+*.png
+*.zip
+# Model weights and checkpoints (~870 MB each)
+*.pt
+*.pth
+# Run outputs and logging
+b0_100ep*/
+outputs*/
+wandb/
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store

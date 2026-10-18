@@ -1,0 +1,10 @@
+# Versions were not recorded for the Kaggle run (Python 3.13 image), so nothing is pinned.
+# On Kaggle all of these are preinstalled; see the README to record exact versions.
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+wandb        # optional: only used if USE_WANDB = True

@@ -1,0 +1,4 @@
+,Accuracy (%),Precision,Sensitivity,F1 score
+"Ali et al. (2024), Table 2",81.70 ± 5.39,0.83 ± 0.04,0.79 ± 0.06,0.80 ± 0.06
+"Ours, final model",79.14 ± 3.99,0.82 ± 0.06,0.79 ± 0.03,0.79 ± 0.04
+"Ours, best-val model",81.91 ± 5.26,0.84 ± 0.07,0.79 ± 0.06,0.80 ± 0.06
